@@ -1,1 +1,1 @@
-
+📆 Monday: Intro to Programming
