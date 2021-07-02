@@ -1,1 +1,1 @@
-📆 Monday: Terminal and GitHub Setup
+📆 Monday 2: Terminal and GitHub Setup
